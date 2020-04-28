@@ -1,0 +1,22 @@
+{
+  "name": "things-node",
+  "version": "1.0.0",
+  "description": "WebThings node simulator devices.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IoTAccessControl/WebThings-log.git"
+  },
+  "keywords": [
+    "WebThings"
+  ],
+  "author": "fripSide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IoTAccessControl/WebThings-log/issues"
+  },
+  "homepage": "https://github.com/IoTAccessControl/WebThings-log#readme"
+}
